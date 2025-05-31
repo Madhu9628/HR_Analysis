@@ -10,6 +10,7 @@ A comprehensive, interactive Power BI visualization tool designed to analyze key
 The HR Analysis Dashboard is a visually engaging, analytical Power BI report created for HR professionals and business leaders. It offers a detailed view of workforce dynamics—tracking employee separations, analyzing active employees, monitoring new hires, and evaluating average tenure across various regions and demographic segments. This tool is essential for making data-driven decisions on recruitment, retention, and overall HR strategy.
 
 
+
 🛠 **Tech Stack**  
 
 The dashboard was built using:  
@@ -24,10 +25,11 @@ The dashboard was built using:
 
 ✅ **Data Modeling** – Establishes relationships among tables for effective reporting  
 
-
 ✅ **File Format** – `.pbix` for development, `.png` for dashboard previews
 
+
 📂 **Data Source**  
+
 
 📌 HR management systems and Excel demo data  
 
@@ -42,6 +44,7 @@ The dashboard was built using:
 
 💼 **Business Problem**  
 
+
 Organizations often struggle to:  
 
 🔹 Monitor and reduce employee separations across different regions and age groups  
@@ -55,6 +58,7 @@ Organizations often struggle to:
 
 🎯 **Goal of Dashboard**  
 
+
 🔹 Provide detailed insights into key HR metrics and workforce dynamics  
 
 🔹 Empower HR and business leaders to make data-driven decisions for recruitment and retention  
@@ -62,6 +66,7 @@ Organizations often struggle to:
 🔹 Enable strategic planning for improved talent management and workforce optimization
 
 📊 **Walkthrough of Key Visuals**  
+
 
 🔹 **Employee Separation Analysis** – Visualizes separation trends by region and age group, assisting in identifying critical retention issues.  
 
@@ -74,6 +79,7 @@ Organizations often struggle to:
 
 🚀 **Business Impact & Insights**  
 
+
 ✅ **Strategic HR Planning** – Optimize talent management by addressing regional and demographic challenges.  
 
 ✅ **Targeted Recruitment** – Identify regions with high hiring potential to refine recruitment efforts.  
@@ -84,7 +90,7 @@ Organizations often struggle to:
 ✅ **Data-Driven Workforce Management** – Leverage actionable insights to allocate HR resources effectively and improve overall HR performance.
 
 
-📷 **Screenshot**  
-*(Upload an image of the dashboard to showcase its layout and visuals.)*
+📷 **Demo**  
+*https://github.com/Madhu9628/HR_Analysis/blob/main/Screenshot_of_Hr_Analysis.png*
 
 📌 **Check out my work:** [Your GitHub Repository Link]
