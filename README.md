@@ -1,46 +1,54 @@
-# HR Analysis Dashboard – Workforce Insights & Trends
+📊 Sales Insights Dashboard – Data-Driven Business Intelligence
 
-## 🛠 Tech Stack  
-The dashboard was built using:  
-✅ **Power BI Desktop** – Main data visualization platform for report creation  
-✅ **Power Query** – Data transformation & cleaning  
-✅ **DAX** – Used for calculated columns, measures, and dynamic visuals  
-✅ **SQL** – Data processing & querying (if applicable)  
-✅ **Data Modeling** – Establishes relationships among tables for effective reporting  
-✅ **File Format** – `.pbix` for development, `.png` for dashboard previews  
+📝 Project Title / Headline
+🚀 Sales Insights Dashboard: Unlocking Key Business Metrics
+A dynamic, interactive Power BI visualization tool designed to analyze sales data—focusing on customer trends, product performance, freight costs, and revenue optimization.
 
-## 📂 Data Source  
-📌 HR management systems and demo data Excel sheets  
-📌 Employee records including separations, active employees, and new hires  
-📌 Demographic data (Age, PayType, Gender, etc.)  
-📌 Regional distribution of the workforce  
+📌 Short Description / Purpose
+The Sales Insights Dashboard helps businesses understand sales trends across multiple categories, customers, and regions through interactive reporting. This tool is perfect for business analysts, finance teams, and strategists looking to optimize revenue and forecast business performance.
 
-## 🔎 Features – Dashboard Explanation Format
+🛠 Tech Stack
+The dashboard was built using:
+✅ Power BI Desktop – Main data visualization platform for report creation
+✅ Power Query – Data transformation & cleaning
+✅ DAX – Used for calculated columns, measures, and dynamic visuals
+✅ SQL – Data processing & querying
+✅ Data Modeling – Establishes relationships among tables for effective reporting
+✅ File Format – .pbix for development, .png for dashboard previews
 
-### 💼 Business Problem  
-Organizations often struggle to:  
-🔹 Analyze employee turnover and separation trends across regions and age groups  
-🔹 Understand workforce demographics by examining active employees segmented by age and pay type  
-🔹 Monitor new hire trends by region and job type  
-🔹 Identify patterns in average tenure to enhance employee retention
+📂 Data Source
+📌 Sales transaction records
+📌 Customer details & purchase trends
+📌 Product categories & revenue analysis
+📌 Freight & shipment data
+📌 Country-wise sales distribution
 
-### 🎯 Goal of Dashboard  
-🔹 Provide detailed insights into HR metrics and workforce dynamics  
-🔹 Help HR and business leaders make data-driven decisions to optimize talent management  
-🔹 Enable strategic planning for improved recruitment, retention, and overall HR effectiveness
+🔎 Features – Dashboard Explanation Format
+💼 Business Problem
+Companies often struggle to:
+🔹 Identify their top-performing customers and products
+🔹 Optimize sales strategies across different shipping methods
+🔹 Analyze freight costs relative to total revenue
+🔹 Forecast business trends using historical data
 
-### 📊 Walkthrough of Key Visuals  
-🔹 **Employee Separation** – Visualizes separation trends by region and age group  
-🔹 **Actives by Age Group & Pay Type** – Breaks down the active workforce by demographic segments  
-🔹 **New Hire Analysis** – Compares new hire volumes across regions and job types  
-🔹 **Average Tenure Analysis** – Displays average tenure by region and gender to spot retention trends
+🎯 Goal of Dashboard
+🔹 Provide detailed insights into revenue, customer behavior, and logistics costs
+🔹 Help businesses make data-driven decisions and improve efficiency
+🔹 Enable strategic forecasting to boost profitability
 
-### 🚀 Business Impact & Insights  
-✅ **Strategic HR Planning** – Tailor retention strategies by targeting regions with high turnover  
-✅ **Optimized Recruitment** – Identify regions and job types with high hiring potential  
-✅ **Data-Driven Workforce Management** – Leverage insights to enhance employee engagement and overall performance
+📊 Walkthrough of Key Visuals
+🔹 Sales Overview – Displays total revenue across different years and shipment methods
+🔹 Top Customers & Products – Highlights major buyers and best-selling items
+🔹 Country-wise Sales – Maps global sales distribution
+🔹 Freight Analysis – Evaluates logistics expenses and shipping trends
+🔹 Quarterly & Monthly Trends – Identifies seasonal patterns and business cycles
 
-## 📷 Screenshot  
-*(Upload an image of the dashboard to showcase its layout and visuals.)*
+🚀 Business Impact & Insights
+✅ Marketing Optimization – Helps sales teams target key customer groups
+✅ Strategic Expansion – Identifies high-performing product categories and regions
+✅ Financial Planning – Improves revenue forecasting and logistics efficiency
 
-📌 **Check out my work:** [Your GitHub Repository Link]
+📷 Screenshot
+(Upload an image of the dashboard to showcase its layout and visuals.)
+
+📌 Check out my work: [Your GitHub Repository Link]
