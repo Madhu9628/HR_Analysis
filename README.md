@@ -93,4 +93,4 @@ Organizations often struggle to:
 📷 **Demo**  
 *https://github.com/Madhu9628/HR_Analysis/blob/main/Screenshot_of_Hr_Analysis.png*
 
-📌 **Check out my work:** [Your GitHub Repository Link]
+📌 **Check out my work:** https://github.com/Madhu9628/HR_Analysis/blob/main/Final_Project_Madhu.pbix
